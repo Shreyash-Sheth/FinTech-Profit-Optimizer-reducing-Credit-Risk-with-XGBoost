@@ -16,7 +16,7 @@ This project implements a **Profit-Optimised Credit Scoring Model** using **XGBo
 
 ##  The Financial Impact ("The Money Slide")
 
-*The chart below visualizes the core business value. The **Red Zone** (Left) represents the money-losing loans successfully blocked by the model. The **Green Zone** (Right) represents the profitable loans kept.*
+*The chart below visualises the core business value. The **Red Zone** (Left) represents the money-losing loans successfully blocked by the model. The **Green Zone** (Right) represents the profitable loans kept.*
 
 <img width="1189" height="590" alt="image" src="https://github.com/user-attachments/assets/3a249a65-e717-422e-988b-44ac8ebf052f" />
 
@@ -77,7 +77,3 @@ The model outputs show a clear monotonic relationship between Loan Grade and Def
 <img width="1189" height="590" alt="image" src="https://github.com/user-attachments/assets/e38eb14e-3988-44c0-9993-3fc1443329eb" />
 
 *(Figure 3: Actual Default Rate by Sub-Grade. The clear upward trend validates data quality.)*
-
----sis.ipynb` in Jupyter Lab or VS Code.
-    * Ensure the raw data file is in the root directory (or update the path in the notebook).
----
